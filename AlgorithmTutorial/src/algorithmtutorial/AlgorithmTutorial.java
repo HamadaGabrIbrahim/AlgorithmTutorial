@@ -5,6 +5,9 @@
  */
 package algorithmtutorial;
 
+import java.time.LocalDate;
+import java.util.Date;
+
 /**
  *
  * @author hibrahim
@@ -16,6 +19,10 @@ public class AlgorithmTutorial {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Long x = 111111L;
+        Long v = 111111L;
+       // System.out.println(v.);
+        System.out.println(new java.sql.Date(new Date().getTime()));
     }
     
 }
