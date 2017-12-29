@@ -17,7 +17,6 @@ import java.util.List;
 //
 //as 123 + 1 = 124.
 public class IncreaseNumber {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList<Integer> list = new ArrayList<Integer>();
